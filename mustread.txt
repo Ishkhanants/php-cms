@@ -1,0 +1,2 @@
+. password for every user is "1234"
+. to see Admin functionality, login as "elvis"
